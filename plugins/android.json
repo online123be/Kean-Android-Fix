@@ -40,18 +40,15 @@
     "cordova-plugin-vibration": {
       "PACKAGE_NAME": "com.keansuspensions.be"
     },
-    "onesignal-cordova-plugin": {
+    "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.keansuspensions.be"
     },
-    "cordova-plugin-whitelist": {
+    "onesignal-cordova-plugin": {
       "PACKAGE_NAME": "com.keansuspensions.be"
     }
   },
   "dependent_plugins": {
     "cordova-plugin-file": {
-      "PACKAGE_NAME": "com.keansuspensions.be"
-    },
-    "cordova-plugin-compat": {
       "PACKAGE_NAME": "com.keansuspensions.be"
     }
   }
